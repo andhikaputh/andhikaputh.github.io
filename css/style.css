@@ -20,6 +20,10 @@ a {
   transition: 0.5s;
 }
 
+.nav-item:hover {
+  color:#18d26e ;
+}
+
 a:hover,
 a:active,
 a:focus {
