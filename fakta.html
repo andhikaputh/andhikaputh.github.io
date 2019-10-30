@@ -61,7 +61,7 @@
             items.push("<td id='"+key+"' style='text-align:center'>"+val.nama+"</td>");
             items.push("<td id='"+key+"' style='text-align:center'>"+val.email+"</td>");
             
-            items.push("<td id='"+key+"' style='text-align:center'><img src='Staff/"+val.Staff+"' style='height:100px;'></td>");
+            items.push("<td id='"+key+"' style='text-align:center'><img src='"+val.Staff+"' style='height:100px;'></td>");
             items.push("</tr>");
         });
         $("<tbody/>",{"class":"mydata",html:items.join("")}).appendTo("table");
