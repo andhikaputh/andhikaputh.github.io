@@ -1,0 +1,30 @@
+[
+    {
+        
+        "nama" : "Natasha Syeikinah",
+        "email" : "Natakeren@gmail.com",
+        "Staff" : "Natasha_Ketua.jpg"
+    },
+    {
+        "nama" : " Alfi Naufal",
+        "email" : "alfitua@gmail.com",
+        "Staff" : "Alfi_Kepdiv Pendidikan.jpg"
+    },
+    {
+        "nama" : " Thalia Azzahra",
+        "email" : "Thalia603@gmail.com",
+        "Staff" : "Thalia_Sekretaris.jpg"
+    },
+
+    {
+        "nama" : " Arrsyalia",
+        "email" : "Cacaimut@gmail.com",
+        "Staff" : "Arrsyaila_Bendahara.jpg"  
+    },
+
+    {
+        "nama" : " Euklides Hutasoit",
+        "email" : "Idesgalak@gmail.com",
+        "Staff" : "Euklides_Personalia.jpg"  
+    }
+]
