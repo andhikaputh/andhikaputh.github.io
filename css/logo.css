@@ -1,0 +1,13 @@
+.logokom {
+    width: 200px;
+    position: absolute;
+    left: 15px;
+}
+
+.logokomp {
+    width: 400px;
+    position: relative;
+    right: 250px;
+    top: 660px;
+    display: none;
+}
